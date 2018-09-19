@@ -47,3 +47,7 @@ Enter the type of purchase
 Total Bill Amount :500.0
 Discount Amount :150.0
 Net Payable Amount :350.0
+
+## Documents
+*class diagram and flow diagram are uploaded in the document folder
+*Junit test class also included
